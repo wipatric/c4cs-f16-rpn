@@ -1,4 +1,7 @@
 # c4cs-f16-rpn
+
+https://travis-ci.org/wipatric/c4cs-f16-rpn.svg?branch=master
+
 Demonstration repository for c4cs f16
 
 This repository is part of the [Computing for Computer Scientists](https://c4cs.github.io)
