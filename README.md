@@ -1,6 +1,7 @@
 # c4cs-f16-rpn
-[![Gem Version][GV img]][Gem Version]
-[Gem Version]: https://travis-ci.org/wipatric/c4cs-f16-rpn.svg?branch=master
+
+
++[![Build Status](https://travis-ci.org/wipatric/c4cs-f16-rpn.svg?branch=master)](https://travis-ci.org/wipatric/c4cs-f16-rpn)
 
 Demonstration repository for c4cs f16
 
